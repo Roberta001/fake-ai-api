@@ -7,7 +7,7 @@ module.exports = {
 
   // API Key。留空则启动时随机生成一个 sk- 开头的并打印到日志，
   // 也可以改用环境变量 FAKE_API_KEY。
-  apiKey: "sk-ZIK8Hygx0BLBOZmt7ZGOY4OcvqkttdIPvLEco7yHYtnKgDcu",
+  apiKey: "1",
 
   // 是否校验请求头里的 Key（Authorization 或 x-api-key）
   requireAuth: true,
